@@ -1,1 +1,1 @@
-My frist readme
+My first readme instructions
